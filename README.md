@@ -2,7 +2,7 @@
 
 ## Dataset Information
 
-- **Dataset Name**: CIC-Bell-DNS-EXF-2021 Dataset [here](<https://www.unb.ca/cic/datasets/vpn.html](https://www.unb.ca/cic/datasets/dns-exf-2021.html#:~:text=Furthermore%2C%20our%20proposed%20model%20could,from%20small%20to%20large%20sizes.)>)
+- **Dataset Name**: CIC-Bell-DNS-EXF-2021 Dataset [here](<https://www.unb.ca/cic/datasets/dns-exf-2021.html#:~:text=Furthermore%2C%20our%20proposed%20model%20could,from%20small%20to%20large%20sizes.>)
 - **Dataset Source**: Publicly available cybersecurity threat intelligence dataset
 - **Features**: 12 features
 - **Data Samples**: 536,138
